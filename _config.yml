@@ -3,3 +3,11 @@ theme: minima
 name: giguhbit's blog
 title: giguhbit's blog
 description: a blog for cool things
+
+# social links
+twitter_username: giguhbit
+github_username:  giguhbit
+rss: rss
+
+#header_pages:
+- about.html
