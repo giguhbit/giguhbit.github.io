@@ -2,3 +2,24 @@ theme: jekyll-theme-minimal
 
 name: giguhbit's blog
 title: giguhbit's blog
+
+sidebar:
+    twitter: true
+    github: true
+    slack: false
+    recent: false
+    tags: true
+    archive: true
+    
+share:
+  facebook: true
+  twitter: true
+  gplus: true
+  linkedin: true
+  pinterest: false
+  email: false
+
+social:
+  twitter: giguhbit
+  github: giguhbit
+  linkedin: alec-barnard
