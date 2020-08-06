@@ -1,12 +1,10 @@
 theme: minima
 
-name: giguhbit's blog
-title: giguhbit's blog
-description: a blog for cool things
+name: Alec Barnard's blog
+title: Alec Barnard's blog
+description: a blog for security and IT related things
 
 # social links
 twitter_username: giguhbit
 github_username:  giguhbit
 linkedin_username: alec-barnard-lbc
-rss: rss
-
